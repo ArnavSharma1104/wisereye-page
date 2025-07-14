@@ -1,5 +1,6 @@
+// tailwind.config.js
 module.exports = {
-  content: ["./index.html", "./js/**/*.js"], // Adjust path as per your structure
+  content: ["./public/**/*.html"],
   theme: {
     extend: {},
   },
