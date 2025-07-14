@@ -1,0 +1,13 @@
+{
+  "name": "wisereye-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "postcss ./css/input.css -o ./dist/output.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8.5.6",
+    "autoprefixer": "^10.4.21",
+    "postcss-cli": "^10.1.0"
+  }
+}
